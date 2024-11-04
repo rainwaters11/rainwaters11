@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a lifelong student passionate about technolo
 ## 🔧 Skills & Tools
 
 - **Languages:** SQL, Python, JavaScript
-- **Technologies:** AWS, Ollama, Linux, Ubuntu, DocGPT
+- **Technologies:** AWS, Kubernetes, Docker, Ollama 3.2
 - **Interests:** Data analytics (10x Data Analysis Program certified), generative AI, and the blend of art and tech.
 
 ## 📈 Current Projects
@@ -29,4 +29,5 @@ Welcome to my GitHub profile! I’m a lifelong student passionate about technolo
 [LinkedIn](https://linkedin.com/in/misty-waters-473b5950)
 
 Thanks for visiting! ✨ Let's collaborate, learn, and grow together!
+
 
