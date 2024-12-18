@@ -16,6 +16,17 @@ Welcome to my GitHub profile! I’m a lifelong student passionate about technolo
 
 ## 📈 Current Projects
 
+**GenAI Hackathon Project Lead**
+BlockWhere: Empowering Financial Confidence in Cryptocurrency
+
+Project Overview
+
+BlockWhere is a groundbreaking platform designed to make cryptocurrency accessible, trustworthy, and secure for everyone. Our goal is to provide accurate, reliable, and actionable insights, empowering users—especially in underserved communities—to confidently navigate the digital financial ecosystem. Mission
+
+Our mission is to bridge the gap between cryptocurrency and accessibility by delivering a trusted platform with verified information, practical education, and security resources. We aim to foster financial inclusion and economic empowerment through a user-friendly experience.
+
+https://github.com/inamprograms/BlockWhere
+
 - **GenAI Pioneer Program:** Selected as a GenAI Pioneer to help shape the future of AI education, innovation, and community building. My role includes beta testing GenAI products, providing feedback on new ideas, and participating in interviews with the GenAI team. This program will connect me with other AI enthusiasts and thought leaders, while offering early access to courses, summits, and GenAI opportunities.
   
 - **Sales Data Analysis:** Understanding customer trends to improve sales performance.
