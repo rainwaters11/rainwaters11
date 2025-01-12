@@ -27,6 +27,20 @@ Our mission is to bridge the gap between cryptocurrency and accessibility by del
 
 https://github.com/inamprograms/BlockWhere
 
+ - **Decoding Science:** 🌟 AI Challenge - 7-Day Journey 🌟
+I recently participated in a 7-day AI Challenge, where I focused on building innovative solutions by leveraging AI tools and no-code/low-code platforms. This experience allowed me to explore cutting-edge technologies, optimize workflows, and deliver impactful results within tight deadlines.
+
+Mosaic Culture Project
+🎨 Mosaic Culture: Preserving Cultural Heritage Through Technology
+The Mosaic Culture Project is an initiative to preserve and celebrate the rich diversity of cultural heritage from underserved and marginalized communities. Here's a brief overview:
+
+Objective: Create a platform that collects, organizes, and shares cultural stories, traditions, and artifacts in an accessible and engaging format.
+Key Features:
+Story Submissions: Users can share their stories, accompanied by text, images, and audio.
+AI-Powered Enhancements: Leveraging tools like Whisper and ElevenLabs for audio transcription, voiceovers, and storytelling enhancements.
+Interactive Experience: Future plans include geolocation-based storytelling, timelines, and customizable cultural narratives.
+ 
+
 - **GenAI Pioneer Program:** Selected as a GenAI Pioneer to help shape the future of AI education, innovation, and community building. My role includes beta testing GenAI products, providing feedback on new ideas, and participating in interviews with the GenAI team. This program will connect me with other AI enthusiasts and thought leaders, while offering early access to courses, summits, and GenAI opportunities.
   
 - **Sales Data Analysis:** Understanding customer trends to improve sales performance.
